@@ -55,8 +55,8 @@
   align-items: center;
   margin-bottom: 30px;
   gap: 30px;
-  position: absolute;
-  left:750px;
+  position: relative;
+  left:10px;
   top:50px
 }
 .type {
